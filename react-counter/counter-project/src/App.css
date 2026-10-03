@@ -1,0 +1,60 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+body{
+  background-color:lightblue;
+}
+.app
+{
+  background-color: aliceblue;
+  height: 100vh;
+}
+.heading
+{
+  font-size: 80px;
+  font-weight: bolder;
+  margin-top: 100px;
+}
+.count
+{
+  font-size: 60px;
+  font-weight: bolder;
+  color: red;
+  padding-top: 30px;
+}
+.btn1
+{
+  font-size: 25px;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: darkslateblue;
+}
+
+.btn2
+{
+  font-size: 25px;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: red;
+}
+
+.btn3
+{
+  font-size: 25px;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: green;
+  margin-right: 10px;
+}
+.button
+{
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
